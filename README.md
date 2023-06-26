@@ -3,7 +3,6 @@
 <h3 align="center">"Hey there! I'm Abir, a dedicated and passionate student with a strong interest in programming and web development.</h3>
 
 
-
 - 👨‍💻 My portfolio website **https://abir-ux.github.io/**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abir-ux](https://github.com/Abir-ux)
