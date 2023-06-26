@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abir-ux](https://github.com/Abir-ux)
 
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **abir573912@gmail.com**
+  
+- 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
